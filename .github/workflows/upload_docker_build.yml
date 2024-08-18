@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  USER: ${{ github.repository_owner }}
+  USER: shaikh-ubaid
   PROJECT: ${{ github.event.repository.name }}
 
 jobs:
